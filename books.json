@@ -1,0 +1,8 @@
+[
+    { "id": 1, "title": "Dế Mèn phiêu lưu ký", "author": "Tô Hoài", "year": 1941, "category": "Văn học", "available": true },
+    { "id": 2, "title": "Lược sử thời gian", "author": "Stephen Hawking", "year": 1988, "category": "Khoa học", "available": false },
+    { "id": 3, "title": "Clean Code", "author": "Robert C. Martin", "year": 2008, "category": "CNTT", "available": true },
+    { "id": 4, "title": "Số đỏ", "author": "Vũ Trọng Phụng", "year": 1936, "category": "Văn học", "available": false },
+    { "id": 5, "title": "You Don't Know JS", "author": "Kyle Simpson", "year": 2015, "category": "CNTT", "available": true },
+    { "id": 6, "title": "Vũ trụ", "author": "Carl Sagan", "year": 1980, "category": "Khoa học", "available": true }
+]
